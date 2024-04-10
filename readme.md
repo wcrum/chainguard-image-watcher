@@ -13,6 +13,8 @@ In `/results` you will find a ton of `.pkl` files, these are pickled scans from 
 `scan.py` is the primary file, it reaches out to `https://console-api.enforce.dev/query` to get all the content / list of images you need.
 
 # Results
+> [!NOTE]
+> LAST FULL SCAN WAS `Wed Apr 10 01:24:19 MDT 2024`
 
 > [!CAUTION]
 > Counts total CVE by severity for image, then adds it. Does not check if CVE is unique.

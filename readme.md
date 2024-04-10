@@ -20,8 +20,8 @@ In `/results` you will find a ton of `.pkl` files, these are pickled scans from 
 | Severity | Total |
 | -- | -- |
 | Critical | 0 |
-| High | 38 |
-| Medium | 78 |
+| High | 40 |
+| Medium | 80 |
 | Low | 5 |
 | Unknown | 41 |
 | Negligible | 0 |
@@ -40,6 +40,7 @@ In `/results` you will find a ton of `.pkl` files, these are pickled scans from 
 | [cgr.dev/chainguard/gitness](cgr.dev/chainguard/gitness) |  |  | [GHSA-9w9f-6mg8-jp7w](https://github.com/advisories/GHSA-9w9f-6mg8-jp7w) |  |  |  |
 | [cgr.dev/chainguard/busybox:latest](cgr.dev/chainguard/busybox:latest) |  |  | [CVE-2023-42365](https://bugs.busybox.net/show_bug.cgi?id=15871),[CVE-2023-42364](https://bugs.busybox.net/show_bug.cgi?id=15868),[CVE-2023-42363](https://bugs.busybox.net/show_bug.cgi?id=15865),[CVE-2023-42365](https://bugs.busybox.net/show_bug.cgi?id=15871),[CVE-2023-42364](https://bugs.busybox.net/show_bug.cgi?id=15868),[CVE-2023-42363](https://bugs.busybox.net/show_bug.cgi?id=15865) |  |  |  |
 | [cgr.dev/chainguard/vault:latest](cgr.dev/chainguard/vault:latest) |  |  | [GHSA-j2rp-gmqv-frhv](https://github.com/advisories/GHSA-j2rp-gmqv-frhv),[GHSA-rhh4-rh7c-7r5v](https://github.com/advisories/GHSA-rhh4-rh7c-7r5v) |  | [CVE-2023-45288](https://go.dev/cl/576155) |  |
+| [cgr.dev/chainguard/vela-cli:latest](cgr.dev/chainguard/vela-cli:latest) |  | [GHSA-r53h-jv2g-vpx6](https://github.com/advisories/GHSA-r53h-jv2g-vpx6),[GHSA-r53h-jv2g-vpx6](https://github.com/advisories/GHSA-r53h-jv2g-vpx6) | [GHSA-v53g-5gjp-272r](https://github.com/advisories/GHSA-v53g-5gjp-272r),[GHSA-v53g-5gjp-272r](https://github.com/advisories/GHSA-v53g-5gjp-272r) |  |  |  |
 | [cgr.dev/chainguard/keycloak:latest](cgr.dev/chainguard/keycloak:latest) |  | [GHSA-f8h5-v2vg-46rr](https://github.com/advisories/GHSA-f8h5-v2vg-46rr) |  |  |  |  |
 | [cgr.dev/chainguard/harbor-registry:latest](cgr.dev/chainguard/harbor-registry:latest) |  |  |  |  | [CVE-2023-45288](https://go.dev/cl/576155) |  |
 | [cgr.dev/chainguard/logstash-oss-with-opensearch-output-plugin:latest](cgr.dev/chainguard/logstash-oss-with-opensearch-output-plugin:latest) |  | [GHSA-592j-995h-p23j](https://github.com/advisories/GHSA-592j-995h-p23j),[GHSA-592j-995h-p23j](https://github.com/advisories/GHSA-592j-995h-p23j) | [GHSA-5jpm-x58v-624v](https://github.com/advisories/GHSA-5jpm-x58v-624v),[GHSA-5jpm-x58v-624v](https://github.com/advisories/GHSA-5jpm-x58v-624v),[GHSA-hww2-5g85-429m](https://github.com/advisories/GHSA-hww2-5g85-429m),[GHSA-hww2-5g85-429m](https://github.com/advisories/GHSA-hww2-5g85-429m) |  |  |  |
